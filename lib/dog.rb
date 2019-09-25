@@ -1,6 +1,6 @@
 # Your code goes here!
 class Dog   
-  def  Bark 
+  def  bark 
     puts "woof!"
   end 
 end 
