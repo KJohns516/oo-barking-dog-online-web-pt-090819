@@ -6,4 +6,4 @@ class Dog
 end 
 
 fido = dog.new 
-fido
+fido.bark 
