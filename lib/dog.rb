@@ -8,4 +8,3 @@ def bark
     puts "woof!"
       fido.bark
   end
-end
