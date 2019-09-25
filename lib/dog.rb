@@ -1,5 +1,6 @@
 # Your code goes here!
-class Dog   
+class Dog 
+  
   def bark(bark) 
     puts "woof!"
   end 
