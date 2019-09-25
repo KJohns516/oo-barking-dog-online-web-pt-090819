@@ -5,6 +5,7 @@ end
 fido = Dog.new  
 fido.name = "Fido"
 fido.object_id
+end 
 
 fido.name 
 
