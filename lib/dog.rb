@@ -7,9 +7,9 @@ fido.name = "Fido"
 fido.object_id
 end 
 
-fido.name_id
+fido.name_id = Dog
 
 def bark
+  fido.bark
   puts "woof!"
-fido.bark
-woof!
+end
