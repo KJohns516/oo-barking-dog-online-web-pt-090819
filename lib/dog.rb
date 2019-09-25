@@ -8,7 +8,7 @@ fido.name = "Fido"
 end 
 
 def bark
-  fido.bark
     puts "woof!"
+      fido.bark
   end
 end
