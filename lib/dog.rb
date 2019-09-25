@@ -9,6 +9,7 @@ end
 
 fido.name_id
 
-def bark 
+def bark
+  puts "woof!"
 fido.bark
 woof!
