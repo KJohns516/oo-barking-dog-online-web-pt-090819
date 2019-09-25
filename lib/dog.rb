@@ -7,3 +7,4 @@ end
 
 fido = dog.new 
 fido.bark 
+puts fido.bark "woof!"
