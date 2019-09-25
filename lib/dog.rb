@@ -7,6 +7,10 @@ end
 def name
   @name 
 end
+
+def bark
+  @bark
+  
   # def bark(bark)
   #   puts "woof!"
   # end 
