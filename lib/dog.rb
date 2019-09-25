@@ -7,7 +7,8 @@ fido.name = "Fido"
 fido.object_id
 end 
 
-fido.name 
+fido.name_id
 
+def 
 fido.bark
 woof!
