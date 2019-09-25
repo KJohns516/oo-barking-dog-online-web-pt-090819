@@ -9,6 +9,6 @@ end
 
 fido.name_id
 
-def 
+def bark 
 fido.bark
 woof!
